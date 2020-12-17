@@ -9,6 +9,6 @@ public class helloWorld {
    public static void method1(){
        System.out.println("method1");
        
-      //that one for practice purpose
+  
    }
 }
