@@ -6,6 +6,8 @@ public class helloWorld {
 
     }
 
+<<<<<<<HEAD
+
     public static void method1() {
 
         System.out.println("delete branch");
@@ -18,6 +20,6 @@ public class helloWorld {
 
 
 
-
+//conflict has been solved
     }
 }
