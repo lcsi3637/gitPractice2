@@ -7,6 +7,5 @@ public class helloWorld {
     }
 
 
-    //it has been cleaned
-
+    //bir dahi ask ile master
 }
