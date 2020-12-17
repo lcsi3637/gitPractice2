@@ -11,4 +11,9 @@ public class helloWorld {
        
   
    }
+    public static void method2(){
+       System.out.println("method2");
+       
+  
+   }
 }
