@@ -6,11 +6,9 @@ public class helloWorld {
 
     }
 
-<<<<<<<HEAD
 
     public static void method1() {
 
-        System.out.println("delete branch");
 
         System.out.println("method1");
     }
