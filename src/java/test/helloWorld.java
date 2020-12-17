@@ -6,10 +6,7 @@ public class helloWorld {
 
     }
 
-    public static void method1() {
-        System.out.println("method1");
 
-
-    }
+    //it has been cleaned
 
 }
