@@ -5,6 +5,6 @@ public class helloWorld {
         System.out.println("this is my first code line");
 
     }
-        //Buraya bir seyler yaziyorum bugun September1st,2023 Git practice olarak
+        //Buraya bir seyler yaziyorum bugun September 1st,2023 Git practice olarak
 
 }
